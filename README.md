@@ -129,12 +129,6 @@ plot_truthfulqa_results(
 )
 ```
 
----
-
-## References
-
-* [Original ICM Paper](https://arxiv.org/abs/2304.12345)
-* [Hugging Face Models](https://huggingface.co/models)
 
 ---
 
