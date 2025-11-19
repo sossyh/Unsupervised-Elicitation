@@ -1,4 +1,3 @@
-Sure! Here’s the **complete README.md** ready to copy-paste in code format:
 
 ```markdown
 # Unsupervised-Elicitation (ICM Reimplementation)
