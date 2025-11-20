@@ -62,7 +62,7 @@ CPU Usage
 If you are using CPU:
 
 ```bash
-python -m icm.cli run --model distilgpt2 --dataset ../data/processed/truthfulqa_train_icm.jsonl --task-type truthfulqa --max-examples 5 --log-level INFO
+python -m icm.cli run --model distilgpt2 --dataset truthful_qa --task-type truthfulqa --max-examples 5 --log-level INFO
 
 ```
 GPU Usage
