@@ -48,7 +48,7 @@ To use Hugging Face models (like google/gemma-3-1b-it), log in in your terminal
 huggingface-cli login
 
 ```
-then, Enter your Hugging Face API token.
+then, enter your Hugging Face API token.
 
 ## Running ICM
 1. Navigate to src folder
